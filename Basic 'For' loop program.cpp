@@ -1,6 +1,6 @@
 //EXPERIMENT-6
-//PALAK SONI
-//24070123069
+//Vaishnavi Pangare
+//25070123501
 //ENTC A3
 //TITLE: Write a program using for loop.
 
