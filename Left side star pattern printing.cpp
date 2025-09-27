@@ -1,6 +1,6 @@
 //EXPERIMENT-6
 //Vaishnavi Pangare
-//2570123501
+//25070123501
 //ENTC A3
 //TITLE: Print a right side aligned star pattern  using for loop.
 
